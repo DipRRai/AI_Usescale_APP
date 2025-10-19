@@ -9,9 +9,9 @@ instance/
 *.log
 
 # Local SQLite databases (keep schema/seed scripts, ignore runtime DBs)
-*.sqlite3
-*.db
-database/*.db
+#*.sqlite3
+#*.db
+#database/*.db
 
 # --- Node / Vite ---
 node_modules/
